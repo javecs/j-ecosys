@@ -36,7 +36,7 @@
 
 ## 動作確認
 - 必要なツールがインストールできたのかを確認するために、[簡単なアプリ](https://github.com/javecs/j-ecosys-codes-demo)を実行して見ます。
-  ```
+  ```
   $ git clone https://github.com/javecs/j-ecosys-codes-demo.git
   $ cd j-ecosys-codes-demo
   $ gradle bootRun
