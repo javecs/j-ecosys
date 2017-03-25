@@ -37,7 +37,8 @@
 ## 動作確認
 - 必要なツールがインストールできたのかを確認します。
   ```
-  $ cd codes/demo
+  $ git clone https://github.com/javecs/j-ecosys-codes-demo.git
+  $ cd j-ecosys-codes-demo
   $ gradle bootRun
   ```
 - ブラウザーで、[localhost:8080](http://localhost:8080/)をアクセスします。
