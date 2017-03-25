@@ -35,11 +35,13 @@
 - ソースコードを書いたり、コンパイルしたりするために、[IntelliJ IDEA](https://www.jetbrains.com/idea/#chooseYourEdition)をインストールします。
 
 ## 動作確認
-- 必要なツールがインストールできたのかを確認します。
+- 必要なツールがインストールできたのかを確認するために、[簡単なアプリ](https://github.com/javecs/j-ecosys-codes-demo)を実行して見ます。
   ```
   $ git clone https://github.com/javecs/j-ecosys-codes-demo.git
   $ cd j-ecosys-codes-demo
   $ gradle bootRun
   ```
 - ブラウザーで、[localhost:8080](http://localhost:8080/)をアクセスします。
-- `ようこそ`のボタンを押したら、何かのメッセージが表示できたら、環境準備はOKです。
+![ようこそ](http://i.imgur.com/LhNHfLo.png)
+- `ようこそ`のボタンを押して、何かのメッセージが表示できたら、環境準備はOKです。
+
