@@ -1,6 +1,6 @@
 # Javaのエコシステムを紹介します。
 
-## 環境準備をしましょう。
+## 環境準備
 - これから必要なツールとかを簡単にインストールするために[SDKMAN!](http://sdkman.io/install.html)をインストールします。
   ```
   $ curl -s "https://get.sdkman.io" | bash
@@ -33,3 +33,12 @@
   ```
 
 - ソースコードを書いたり、コンパイルしたりするために、[IntelliJ IDEA](https://www.jetbrains.com/idea/#chooseYourEdition)をインストールします。
+
+## 動作確認
+- 必要なツールがインストールできたのかを確認します。
+  ```
+  $ cd codes/demo
+  $ gradle bootRun
+  ```
+- ブラウザーで、[localhost:8080](http://localhost:8080/)をアクセスします。
+- "ようこそ"のボタンを押したら、何かのメッセージが表示できたら、環境準備はOKです。
