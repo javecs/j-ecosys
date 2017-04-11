@@ -12,9 +12,9 @@
   $ sdk install java 8u121
   ```
 
-- [Gradle](https://gradle.org/) (3.4.1)
+- [Gradle](https://gradle.org/) (3.5)
   ```
-  $ sdk install gradle 3.4.1
+  $ sdk install gradle 3.5
   ```
 
 - [Maven](https://maven.apache.org/) (3.3.9)
